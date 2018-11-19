@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/transactions/EditTA_Transaction.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/transactions/PasteTA_Transaction.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/transactions/CutTA_Transaction.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/clipboard/OfficeHoursClipboard.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/workspace/controllers/OfficeHoursController.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/files/OfficeHoursFiles.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/data/TimeSlot.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/transactions/AddTA_Transaction.java</file>
+            <file>file:/C:/Users/McKillaGorilla/Documents/RTM/StonyBrook/Courses/CSE219/219_2018_cFall/projects/hw2_solution/CS3LearningSuite_v2.0/apps/OfficeHours_Solutions/src/oh/data/OfficeHoursData.java</file>
+        </group>
+        <group name="CSE 219 HW 1">
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/workspace/style/CGStyle.java</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/files/CGFiles.java</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/workspace/CGWorkspace.java</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/workspace/style/cg_style.css</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/workspace/controllers/CGController.java</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/src/cg/CGPropertyType.java</file>
+            <file>file:/D:/Samuel/Documents/NetBeansProjects/CSE219_HW4/CS3LearningSuite_v2.0/apps/CourseSite_Generator/app_data/properties/language_properties_EN.xml</file>
+        </group>
+    </open-files>
+</project-private>
